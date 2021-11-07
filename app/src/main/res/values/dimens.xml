@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="bio_size">17sp</dimen>
+    <dimen name="name_size">25sp</dimen>
+    <dimen name="small_padding">20dp</dimen>
+</resources>

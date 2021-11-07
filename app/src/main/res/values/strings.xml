@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="my_name">Hemant Shrestha</string>
+    <string name="nickname">What is your nickname</string>
+    <string name="avatar">Avatar</string>
+    <string name="my_bio">My name is Hemant Kumar, Iam 22 years old. Iam living in Greater Noida, I have recently complete my graduation in Bachelor of Computer Application.
+    I learned basics of C, C++,Java, JavaScript and few programming languages and I also have basic knowledge of data structure
+    and currently Iam learning Flutter.
+    As a fresher, I want to learn new things and improve my growth and skills.
+    My hobby is watching cricket, web-series, playing mobile games and listening music.
+    My short-term goal is to get a job in reputed company like yours to improve my growth, skills and learn new things.
+    My long-term goal is, I wanted to see myself in a respected position in reputed organization and I also wanted to be the part of the success
+    of that organization.</string>
+    <string name="done">Done</string>
+</resources>
